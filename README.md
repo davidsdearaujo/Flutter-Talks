@@ -1,2 +1,6 @@
-# Flutter-Talks
-Arquivos importantes para o Flutter Talks
+# Flutter Talks
+
+**Documentação IOS Style:**
+
+https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/
+
